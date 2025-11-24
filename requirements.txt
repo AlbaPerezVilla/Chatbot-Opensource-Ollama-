@@ -1,0 +1,2 @@
+# Establecemos el ollama que queremos utilizar
+ollama >= 0.3.0
